@@ -1,4 +1,4 @@
-# A implementation of Mediator Pattern ported from c# to Angular
+# A initial implementation of Mediator Pattern ported from .NET C# to Angular
 
 ## Interfaces and Mediator Service
 ### 1) IRequest
