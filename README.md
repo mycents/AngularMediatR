@@ -53,7 +53,7 @@ export class GetProfileByIdQuery implements IRequest<ProfileModel> {
 }
 ```
 
-**get-profile-by-id.query-handler.ts**
+**get-profile-by-id.query-handler**
 ```
 import { HttpClient } from '@angular/common/http';
 import { IRequestHandler } from "src/app/shared/pattern/mediator";
@@ -74,8 +74,9 @@ export class GetProfileByIdQueryHandler implements IRequestHandler<GetProfileByI
 ```
 
 ### 5) Configuring Angular Mediator Service
-You need to create a mediator module or can use some module to configure the service
-**mediator.module.ts**
+
+You need to create a **mediator module** or use **some module** to configure the service.
+
 ```
 import { HttpClient } from '@angular/common/http';
 import { Injector, NgModule } from '@angular/core';
