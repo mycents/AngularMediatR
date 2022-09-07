@@ -8,7 +8,8 @@ This implementation looks to [Jimmy Bogard's](https://github.com/jbogard) idea w
 Thank's Jimmy for you contribution.
 
 Now, let's rock.
-
+&nbsp;
+&nbsp;
 ### Interfaces and Mediator Service
 
 #### IRequest
