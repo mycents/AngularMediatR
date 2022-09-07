@@ -1,5 +1,13 @@
 ## A beginest implementation of MediatR from .NET C# to Angular
 
+The mediator pattern is one of the ways to arrange a loosely coupled communication between components. I personally think that's a very interesting way.
+
+This implementation looks to [Jimmy Bogard's](https://github.com/jbogard) idea when he did implement mediator pattern in .net c# on [MediatR](https://github.com/jbogard/MediatR) component disponible in [nuget.org](https://www.nuget.org/packages/MediatR).
+
+
+Thank's Jimmy for you contribution.
+
+Now, let's rock.
 
 ### Interfaces and Mediator Service
 
