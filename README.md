@@ -126,6 +126,6 @@ export class MediatorModule { }
 &nbsp;
 &nbsp;
 ### To use
-Inject mediator service on a target component and **send** a query, command or notification.
+**Inject** mediator service on a target component and **send** a query, command or notification.
 
-So that's it, simple as that.
+So that's it, simple as that, have fun.
